@@ -1,5 +1,5 @@
 ## I. Case Study 
-1. Anda adalah orang dengan rasa ingin tahu yang sangat tinggi, terutama mengenai isi komentar dari
+1.Anda adalah orang dengan rasa ingin tahu yang sangat tinggi, terutama mengenai isi komentar dari
 video-video di Youtube yang berkaitan dengan machine learning dalam bahasa Indonesia. Sehingga
 anda melakukan beberapa hal berikut:
 
