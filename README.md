@@ -6,7 +6,17 @@ Dalam proyek ini, saya mengeksplorasi persepsi publik mengenai machine learning 
 
 ### 1. Scraping Komentar YouTube
 
-- Mengambil lebih dari 100 komentar dari ≥ 5 video YouTube yang berkaitan dengan topik machine learning dalam bahasa Indonesia.
+- Mengambil lebih dari 100 komentar dari 5 video YouTube yang berkaitan dengan topik machine learning dalam bahasa Indonesia.
+
+   https://www.youtube.com/watch?v=f0sPXqlw464
+   
+   https://www.youtube.com/watch?v=6tKZcF9mckQ
+   
+   https://www.youtube.com/watch?v=rQRikWceaB8
+   
+   https://www.youtube.com/watch?v=K_C6Kbv4AmY
+   
+   https://www.youtube.com/watch?v=TZPXnuDHpeU
 
 - Proses scraping dilakukan menggunakan YouTube API / library scraping untuk mengumpulkan teks komentar secara realtime.
 
@@ -18,15 +28,19 @@ Cleaning teks dilakukan agar model dapat membaca konten secara lebih akurat, mel
 
 - Tokenization
 
-- Stopword removal
+- Stopword removal untuk bahasa Indonesia
 
 - Lemmatization untuk mengubah kata ke bentuk dasar sesuai tata bahasa Indonesia
 
 ### 3. Exploratory Text Analysis
 
 - Melakukan perhitungan frekuensi kata untuk mengetahui istilah yang paling sering dibahas audiens
+  <img width="1293" height="855" alt="image" src="https://github.com/user-attachments/assets/2bde070c-96ab-44b7-a1f6-5e447d478a32" />
+
 
 - Visualisasi menggunakan Word Cloud untuk menonjolkan kata-kata yang paling sering muncul dalam komentar
+  <img width="950" height="485" alt="image" src="https://github.com/user-attachments/assets/d962ef25-2088-48f3-97ae-bcadaef8392f" />
+
 
 ### 4. Text Vectorization
    
